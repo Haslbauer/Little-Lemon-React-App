@@ -27,5 +27,10 @@ It was created as part of the Meta Front-End Developer course on Coursera. The g
 ## Status
 Work in progress. Continuously improving while learning.
 
+## Screenshots
+<img width="867" height="791" alt="screenshot of the top of little lemon app" src="https://github.com/user-attachments/assets/3c38194c-4592-458f-be62-76442d91a810" />
+<img width="805" height="807" alt="screenshot of menu with filter options" src="https://github.com/user-attachments/assets/237e3e95-a714-436e-b5de-ef7de72ed2a3" />
+
+
 ## Author
 Jonathan Haslbauer
