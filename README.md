@@ -9,8 +9,8 @@ It was created as part of the Meta Front-End Developer course on Coursera. The g
 - Reusable React components
 - Menu section
 - Basic filtering functionality
-- Booking form
 - Responsive layout
+- Work in progress
 
 ## Tech Stack
 - React
